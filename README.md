@@ -1,4 +1,4 @@
-# Abogabot (Practicas de Introducción a Frontend)
+# Abogabot
 
 
 Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sacar los puntos mencionados abajo.
